@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /404.html
+
+# Sitemap location
+Sitemap: https://www.sinunhiuksesi.fi/sitemap.xml
